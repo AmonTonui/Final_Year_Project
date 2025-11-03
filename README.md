@@ -81,7 +81,7 @@ The SOM successfully revealed **coherent demographic clusters** strongly aligned
 
 ## 💡 Technologies Used
 
-* **Python**: Data processing, SOM training, and visualization.
+* **Python**: Data preprocessing, SOM training, and visualization.
 * **Libraries**: Pandas, NumPy, Matplotlib, MiniSom, SciPy.
 * **Visualization**: Custom U*-Matrix implementation inspired by Ultsch & Mörchen (2005).
 
